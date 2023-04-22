@@ -13,6 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+future : true
 
 # Site Settings
 locale                   : "ko-KR"
@@ -108,7 +109,7 @@ author:
   avatar           : "/assets/images/profile.jpg"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "매일 공부하고 <br> 잊지않기 위해 기록하자."
   location         : "Republic of Korea"
-  email            : "hyuns6677@gmail.com"
+  email            : # links에서 작성거거로 표시
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
